@@ -1,16 +1,38 @@
-### Hi there 👋
+# Henrique Nunes 👨‍💻
 
-<!--
-**hnunezz/hnunezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`[PT-br]` 
 
-Here are some ideas to get you started:
+Olá, eu sou Henrique Nunes e seja bem vindo ao meu GitHub :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou de Guarulhos, SP e tenho 20 anos!!
+
+Atualmente sou Desenvolvedor front-end com 1 ano de atuação na área 💻.
+
+`[EN-us]` 
+
+
+Hi, I'm Henrique Nunes and welcome to my GitHub :)
+
+I live in Guarulhos, SP and I'm 20 years old!!
+
+I'm a front-end developer with 1 year of experience in the area 💻.
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquenunes27/)
+
+## 💻Technologies
+
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="ANGULAR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+    <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</div>
+
+<br/>
+
+<div>
+  <a href="https://github.com/hnunezz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnunezz&layout=compact&langs_count=7&theme=dracula"/>
+</div>
