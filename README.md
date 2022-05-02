@@ -6,7 +6,7 @@ Olá, eu sou Henrique Nunes e seja bem vindo ao meu GitHub :)
 
 Sou de Guarulhos, SP e tenho 20 anos!!
 
-Atualmente sou Desenvolvedor front-end com 1 ano de atuação na área 💻.
+Atualmente sou Desenvolvedor front-end 💻.
 
 `[EN-us]` 
 
@@ -15,7 +15,7 @@ Hi, I'm Henrique Nunes and welcome to my GitHub :)
 
 I live in Guarulhos, SP and I'm 20 years old!!
 
-I'm a front-end developer with 1 year of experience in the area 💻.
+I'm a front-end developer 💻.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquenunes27/)
 
