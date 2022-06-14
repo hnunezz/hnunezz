@@ -1,16 +1,5 @@
 # Henrique Nunes 👨‍💻
 
-`[PT-br]` 
-
-Olá, eu sou Henrique Nunes e seja bem vindo ao meu GitHub :)
-
-Sou de Guarulhos, SP e tenho 20 anos!!
-
-Atualmente sou Desenvolvedor front-end 💻.
-
-`[EN-us]` 
-
-
 Hi, I'm Henrique Nunes and welcome to my GitHub :)
 
 I live in Guarulhos, SP and I'm 20 years old!!
