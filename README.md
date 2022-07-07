@@ -4,7 +4,7 @@ Hi, I'm Henrique Nunes and welcome to my GitHub :)
 
 I live in Guarulhos, SP and I'm 20 years old!!
 
-I'm a front-end developer 💻.
+I'm a front-end developer and a systems analysis and development student.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquenunes27/)
 
