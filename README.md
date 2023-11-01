@@ -5,19 +5,14 @@
 #### I am a front-end developer focusing on the Angular framework
 
 ---
-
-<div>
-  <a href="https://github.com/hnunezz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnunezz&layout=compact&langs_count=7&theme=dark&show_icons=true)"/> 
-</div>
-
+ [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hnunezz&layout=compact&langs_count=7&theme=dark&show_icons=true)](https://github.com/hnunezz)
+ 
 ## Projects
 
-<div>     
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=hnunezz&repo=UltimateChampionCreator-LoL&theme=dark&show_icons=true)"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=hnunezz&repo=node-user-auth-ts&theme=dark&show_icons=true)"/>
- </div>
- 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnunezz&repo=UltimateChampionCreator-LoL&theme=dark&show_icons=true)](https://github.com/hnunezz/UltimateChampionCreator-LoL)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnunezz&repo=node-user-auth-ts&theme=dark&show_icons=true)](https://github.com/hnunezz/node-user-auth-ts)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnunezz&repo=TwitterClone-FrontEnd&theme=dark&show_icons=true)](https://github.com/hnunezz/TwitterClone-FrontEnd)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hnunezz&repo=angular-dataBTWComponents&theme=dark&show_icons=true)](https://github.com/hnunezz/angular-dataBTWComponents)
 ---
       
 ## Social
