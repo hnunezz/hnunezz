@@ -1,14 +1,27 @@
-<div style="display: inline_block"><br>
-    <img align="center" alt="ANGULAR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-    <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</div>
+ 
+# Welcome, I'm Henrique Nunes!
+## About me
 
-<br/>
+#### I am a front-end developer focusing on the Angular framework
+
+---
 
 <div>
   <a href="https://github.com/hnunezz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnunezz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnunezz&layout=compact&langs_count=7&theme=dark&show_icons=true)"/> 
 </div>
+
+## Projects
+
+<div>     
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=hnunezz&repo=UltimateChampionCreator-LoL&theme=dark&show_icons=true)"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=hnunezz&repo=node-user-auth-ts&theme=dark&show_icons=true)"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=hnunezz&repo=TwitterClone-FrontEnd&theme=dark&show_icons=true)"/>
+ </div>
+ 
+---
+      
+## Social
+### Talk to Me!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antônio-gally-089bab180/)]([https://www.linkedin.com/in/antônio-gally-089bab180/](https://www.linkedin.com/in/henrique-nunes-de-almeida-ba897a1aa/))
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonio.gally@gmail.com)](mailto:nunesdealmeidahenrique@gmail.com)
