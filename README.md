@@ -1,7 +1,8 @@
- # Welcome, I'm Henrique Nunes!
+# Welcome!
+
 ## About me
 
-#### I am a front-end developer focusing on the Angular framework
+#### My name is Henrique Nunes and I'm a Front-End developer focused on the Angular Framework
 
 ---
  [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hnunezz&layout=compact&langs_count=7&theme=dark&show_icons=true)](https://github.com/hnunezz)
