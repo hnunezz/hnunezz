@@ -1,5 +1,4 @@
- 
-# Welcome, I'm Henrique Nunes!
+ # Welcome, I'm Henrique Nunes!
 ## About me
 
 #### I am a front-end developer focusing on the Angular framework
