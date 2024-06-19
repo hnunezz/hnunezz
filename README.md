@@ -4,7 +4,7 @@
 # Hey there!! ☯️
 ## About me 👀
 
-#### My name is Henrique Nunes and I'm a Front-End developer focused on the Angular Framework
+#### My name is Henrique Nunes and I'm a Front-End developer
 
 ## Stack 🚀
 
