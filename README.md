@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=371f76&height=120&section=header"/>
 <div align="center">
  
 # Hey there!! ☯️
@@ -16,4 +15,3 @@
 
 ### Tks for the visit 👋
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=371f76&height=120&section=footer"/>
