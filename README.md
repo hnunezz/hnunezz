@@ -1,8 +1,6 @@
 <div align="center">
  
 # Hey there!! ☯️
-## About me 👀
-
 #### My name is Henrique Nunes and I'm a Front-End developer
 
 ## Stack 🚀
